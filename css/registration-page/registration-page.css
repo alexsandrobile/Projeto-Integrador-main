@@ -2,6 +2,11 @@ body#cadastro{
     background-color: #f7f7f7;
 }
 
+header .nav-bar img {
+    width: 200px;
+    height: 80px;
+}
+
 main.registration-page{
     width: 90%;
     height: 100vh;
@@ -37,6 +42,7 @@ form{
     width: 100%;
     gap: 40px;
     margin-top: 32px;
+    bottom: 0;
 }
 
 form label {
